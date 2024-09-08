@@ -5,3 +5,18 @@
 console.log(3
     +3); // codr readiability should be high
 console.log("rida");
+
+
+let name="rida";
+let age=19;
+let isloggedIn=false;
+let state;
+
+console.log(typeof "rida");
+console.log(typeof 19);
+console.log(typeof false);
+console.log(typeof state);
+console.log(typeof null);
+
+
+
