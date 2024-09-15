@@ -24,10 +24,19 @@ let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
 
-let variable
- x=5;
- y=10;
- z=x+y;
- console.log(z)
+let x=5;
+let y=3;
+let z=x-y;
+console.log(z)
 
+const a=5;
+const b=3;
+const c=a+b;
+console.log(c)
+
+
+const price1=20;
+const price2=50;
+let total = price1+price2;
+console.log(total);
 
