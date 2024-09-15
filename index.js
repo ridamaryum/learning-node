@@ -6,7 +6,7 @@ console.log(3
     +3); // codr readiability should be high
 console.log("rida");
 
-
+// DATATYPES
 let name="rida";
 let age=19;
 let isloggedIn=false;
