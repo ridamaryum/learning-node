@@ -1,4 +1,8 @@
-/*EXAMPLE 2:
-let x2 = 3n;
-const y2 = x2++;
-x2 is 4n; y2 is 3n*/
+console.log("2"===1);
+console.log("02">1);
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
+
+
+
