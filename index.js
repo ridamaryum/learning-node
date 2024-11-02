@@ -1,22 +1,15 @@
-"use strict";//treat all js code as newer version
+/*  ---  VARIABLES IN JS  --- */
 
-//alert(3+3) // we are using node js not browser so it is not run
 
-console.log(3
-    +3); // codr readiability should be high
-console.log("rida");
 
-// DATATYPES
-let name="rida";
-let age=19;
-let isloggedIn=false;
-let state;
+x=null;
+console.log(x);
 
-console.log(typeof "rida");
-console.log(typeof 19);
-console.log(typeof false);
-console.log(typeof state);
-console.log(typeof null);
+let Name = "mary";
+console.log(Name);
+let age =24
+console.log(age)
+
 
 
 
